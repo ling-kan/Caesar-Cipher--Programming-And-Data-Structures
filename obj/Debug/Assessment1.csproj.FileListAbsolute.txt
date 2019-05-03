@@ -1,0 +1,25 @@
+c:\users\computing\documents\visual studio 2015\Projects\Assessment1\Assessment1\bin\Debug\Assessment1.exe.config
+c:\users\computing\documents\visual studio 2015\Projects\Assessment1\Assessment1\obj\Debug\Assessment1.csprojResolveAssemblyReference.cache
+c:\users\computing\documents\visual studio 2015\Projects\Assessment1\Assessment1\bin\Debug\Assessment1.exe
+c:\users\computing\documents\visual studio 2015\Projects\Assessment1\Assessment1\bin\Debug\Assessment1.pdb
+c:\users\computing\documents\visual studio 2015\Projects\Assessment1\Assessment1\obj\Debug\Assessment1.exe
+c:\users\computing\documents\visual studio 2015\Projects\Assessment1\Assessment1\obj\Debug\Assessment1.pdb
+F:\Assessment1\Assessment1\bin\Debug\Assessment1.exe.config
+F:\Assessment1\Assessment1\obj\Debug\Assessment1.exe
+F:\Assessment1\Assessment1\obj\Debug\Assessment1.pdb
+F:\Assessment1\Assessment1\obj\Debug\Assessment1.csprojResolveAssemblyReference.cache
+F:\Assessment1\Assessment1\bin\Debug\Assessment1.exe
+F:\Assessment1\Assessment1\bin\Debug\Assessment1.pdb
+E:\Assessment1\Assessment1\bin\Debug\Assessment1.exe.config
+E:\Assessment1\Assessment1\obj\Debug\Assessment1.exe
+E:\Assessment1\Assessment1\obj\Debug\Assessment1.pdb
+E:\Assessment1\Assessment1\obj\Debug\Assessment1.csprojResolveAssemblyReference.cache
+E:\Assessment1\Assessment1\bin\Debug\Assessment1.exe
+E:\Assessment1\Assessment1\bin\Debug\Assessment1.pdb
+E:\Assessment\Assessment1\bin\Debug\Assessment1.exe.config
+E:\Assessment\Assessment1\obj\Debug\Assessment1.exe
+E:\Assessment\Assessment1\obj\Debug\Assessment1.pdb
+E:\Assessment\Assessment\bin\Debug\Assessment1.exe.config
+E:\Assessment\Assessment\obj\Debug\Assessment1.exe
+E:\Assessment\Assessment\obj\Debug\Assessment1.pdb
+E:\Assessment\Assessment\obj\Debug\Assessment1.csprojResolveAssemblyReference.cache
